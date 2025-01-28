@@ -1,0 +1,3 @@
+[submodule "ImprovedECC"]
+	path = ImprovedECC
+	url = https://github.com/nveldt/ImprovedECC
